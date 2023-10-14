@@ -5,6 +5,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 
 [YouTube]
+enabled = false
 build-mode = "module"                                                   # 'both', 'apk' or 'module'
 excluded-patches = ""                                                 # space-seperated patches to exclude (multiline strings are not supported)
 included-patches = "'copy-video-url' 'disable-shorts-on-startup' 'disable-auto-captions' 'disable-zoom-haptics' 'hide-ads' 'minimized-playback 'old-video-quality-menu' open-links-externally' 'premium-heading 'remember-video-quality' 'return-youtube-dislike' 'seekbar-tapping' 'sponsorblock' 'video-ads' 'Open links externally'"                                                 # space-seperated patches to include (non-excluded patches are included by default)
@@ -12,7 +13,7 @@ version = "auto"                                                      # 'auto', 
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [TikTok]
-enabled = false
+#enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
-version = "latest"
+version = "auto"
 included-patches = "'SIM spoof'"
