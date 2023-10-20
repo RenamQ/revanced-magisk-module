@@ -10,7 +10,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 build-mode = "both"
 excluded-patches = ""
 included-patches = "'copy-video-url' 'disable-shorts-on-startup' 'disable-auto-captions' 'disable-zoom-haptics' 'hide-ads' 'minimized-playback 'old-video-quality-menu' open-links-externally' 'premium-heading 'remember-video-quality' 'return-youtube-dislike' 'seekbar-tapping' 'sponsorblock' 'video-ads' 'Open links externally'"                                                 # space-seperated patches to include (non-excluded patches are included by default)
-version = "auto"
+version = "18.39.41"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [YouTube-Extended]
