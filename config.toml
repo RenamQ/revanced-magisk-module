@@ -11,7 +11,7 @@ build-mode = "both"
 excluded-patches = ""
 included-patches = "'copy-video-url' 'disable-shorts-on-startup' 'disable-auto-captions' 'disable-zoom-haptics' 'hide-ads' 'minimized-playback 'old-video-quality-menu' open-links-externally' 'premium-heading 'remember-video-quality' 'return-youtube-dislike' 'seekbar-tapping' 'sponsorblock' 'video-ads' 'Open links externally'"                                                 # space-seperated patches to include (non-excluded patches are included by default)
 version = '18.40.34'
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+archive-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 
 [YouTube-Extended]
 enabled = false
