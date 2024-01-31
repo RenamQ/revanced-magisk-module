@@ -2,5 +2,5 @@
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "both"
 version = "19.03.35"
-included-patches = "'Copy video URL' 'Seekbar tapping' 'External downloads' 'Hide ads' 'Video ads' 'Spoof device dimensions' 'Minimized playback' 'Remove tracking query parameter' 'Enable debugging' 'Client spoof' 'Disable zoom haptics' 'Announcements' 'Bypass URL redirects' 'Return YouTube Dislike' 'Disable auto captions' 'SponsorBlock' 'Disable resuming Shorts on startup' 'Restore old video quality menu' 'Remember video quality'"
+included-patches = "'Copy video URL' 'Seekbar tapping' 'External downloads' 'Hide ads' 'Video ads' 'Spoof device dimensions' 'Minimized playback' 'Remove tracking query parameter' 'Enable debugging' 'Client spoof' 'Disable zoom haptics' 'Announcements' 'Bypass URL redirects' 'Return YouTube Dislike' 'Disable auto captions' 'SponsorBlock' 'Disable resuming Shorts on startup' 'Custom branding' 'Restore old video quality menu' 'Remember video quality'"
 exclusive-patches = true
