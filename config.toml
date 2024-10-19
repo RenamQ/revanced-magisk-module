@@ -16,3 +16,9 @@ exclusive-patches = true
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 included-patches = "'Downloads' 'Remember clear display'"
 exclusive-patches = true
+
+[com.ss.android.ugc.trill]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok/"
+included-patches = "'Downloads' 'Remember clear display'"
+exclusive-patches = true
+
