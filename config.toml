@@ -12,13 +12,14 @@ version = "auto"
 included-patches = "'Copy video URL' 'Seekbar tapping' 'External downloads' 'Hide ads' 'Video ads' 'Spoof device dimensions' 'Minimized playback' 'Remove tracking query parameter' 'Enable debugging' 'Client spoof' 'Disable zoom haptics' 'Announcements' 'Bypass URL redirects' 'Return YouTube Dislike' 'Disable auto captions' 'SponsorBlock' 'Disable resuming Shorts on startup' 'Custom branding' 'Restore old video quality menu' 'Remember video quality'"
 exclusive-patches = true
 
-[Tiktok]
-apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
-included-patches = "'Downloads' 'Remember clear display'"
-exclusive-patches = true
+#[Tiktok]
+#apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+#included-patches = "'Downloads' 'Remember #clear display'"
+#exclusive-patches = true
 
 [com.ss.android.ugc.trill]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok/"
+version = "latest"
 included-patches = "'Downloads' 'Remember clear display'"
 exclusive-patches = true
 
