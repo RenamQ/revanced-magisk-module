@@ -20,6 +20,6 @@ exclusive-patches = true
 [com.ss.android.ugc.trill]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok/"
 version = "latest"
-included-patches = "'Downloads' 'Remember clear display'"
+included-patches = "'Downloads'"
 exclusive-patches = true
 
